@@ -1,5 +1,5 @@
 # 📘 AI & ML Algorithms 
-This repository contains my implementations of fundamental **Artificial Intelligence & Machine Learning algorithms** and **Python exercises** 
+This repository contains my implementations of fundamental **Artificial Intelligence & Machine Learning algorithms** and **Python exercises**  from my 3rd semester of B.Tech CSE (AI/ML specialization).
 
 Each file demonstrates a core concept in **Data Science, AI, or ML** – from regression models to graph/tree traversal and pathfinding.
 
@@ -56,7 +56,7 @@ Each file demonstrates a core concept in **Data Science, AI, or ML** – from re
 ---
 
 ## 🧑‍💻 Author
-**Vansh Sethi**  
+**Bhagyavansh Sethi**  
 B.Tech CSE (AI/ML Specialization) | 5th Semester  
 🚀 Passionate about AI, ML & real-world applications.  
 
