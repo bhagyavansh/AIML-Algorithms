@@ -1,5 +1,5 @@
 # 📘 AI & ML Algorithms 
-This repository contains my implementations of fundamental **Artificial Intelligence & Machine Learning algorithms** and **Python exercises** from my 3rd semester of B.Tech CSE (AI/ML specialization).
+This repository contains my implementations of fundamental **Artificial Intelligence & Machine Learning algorithms** and **Python exercises** 
 
 Each file demonstrates a core concept in **Data Science, AI, or ML** – from regression models to graph/tree traversal and pathfinding.
 
